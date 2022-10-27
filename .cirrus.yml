@@ -17,9 +17,9 @@ deploy_task:
     ingerprint_script: cat package-lock.json
     populate_script: npm ci
   env:
-    GITHUB_TOKEN: ENCRYPTED[7c4034b21693ed5af5fd2c88901b8ea028c006be1727beefe8d8deb506b1e8d95cfd87ac147708f0678960ebabc28614]
+    GITHUB_TOKEN: ENCRYPTED[!12ce39a51fe1e38e17f3a4caf0abe1c26ba73f7f2485e4e3ae7ceb72fc06d5082914a267999edaf442ff14fccffcf341!]
     USER: korneef
-    REPO: AHJ25-dom
+    REPO: ahj25_events_goblinsgame
   deploy_script: 
     - git config --global user.name "Cirrus-CI"
     - git config --global user.email "ci@cirruslabs.org"
