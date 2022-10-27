@@ -1,3 +1,3 @@
-[![Build Status](https://api.cirrus-ci.com/github/korneef/AHJ25-dom.svg)](https://cirrus-ci.com/github/korneef/AHJ25-dom)
+[![Build Status](https://api.cirrus-ci.com/github/korneef/ahj25_events_goblingame.svg)](https://cirrus-ci.com/github/korneef/ahj25_events_goblingame)
 
-https://korneef.github.io/AHJ25-dom
+https://korneef.github.io/ahj25_events_goblingame
