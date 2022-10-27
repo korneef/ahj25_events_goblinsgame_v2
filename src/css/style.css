@@ -2,6 +2,7 @@
   display: flex;
   flex-wrap: wrap;
   width: calc(62px*4);
+  cursor: url('../img/hummer.png') 3 13, pointer;
 }
 
 .game-cell {
@@ -11,4 +12,8 @@
 }
 
 .enemy {
-width: 100%}
+  width: 100%
+}
+
+.enemy-death {
+  width: 100%}
